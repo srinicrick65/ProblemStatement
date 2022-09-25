@@ -1,0 +1,15 @@
+C:\Users\INSRRAM5\source\repos\problem_solving\Euler34\Euler34\bin\Debug\net6.0\EulerProblem.exe
+C:\Users\INSRRAM5\source\repos\problem_solving\Euler34\Euler34\bin\Debug\net6.0\EulerProblem.deps.json
+C:\Users\INSRRAM5\source\repos\problem_solving\Euler34\Euler34\bin\Debug\net6.0\EulerProblem.runtimeconfig.json
+C:\Users\INSRRAM5\source\repos\problem_solving\Euler34\Euler34\bin\Debug\net6.0\EulerProblem.dll
+C:\Users\INSRRAM5\source\repos\problem_solving\Euler34\Euler34\bin\Debug\net6.0\EulerProblem.pdb
+C:\Users\INSRRAM5\source\repos\problem_solving\Euler34\Euler34\obj\Debug\net6.0\EulerProblem.csproj.AssemblyReference.cache
+C:\Users\INSRRAM5\source\repos\problem_solving\Euler34\Euler34\obj\Debug\net6.0\EulerProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INSRRAM5\source\repos\problem_solving\Euler34\Euler34\obj\Debug\net6.0\EulerProblem.AssemblyInfoInputs.cache
+C:\Users\INSRRAM5\source\repos\problem_solving\Euler34\Euler34\obj\Debug\net6.0\EulerProblem.AssemblyInfo.cs
+C:\Users\INSRRAM5\source\repos\problem_solving\Euler34\Euler34\obj\Debug\net6.0\EulerProblem.csproj.CoreCompileInputs.cache
+C:\Users\INSRRAM5\source\repos\problem_solving\Euler34\Euler34\obj\Debug\net6.0\EulerProblem.dll
+C:\Users\INSRRAM5\source\repos\problem_solving\Euler34\Euler34\obj\Debug\net6.0\refint\EulerProblem.dll
+C:\Users\INSRRAM5\source\repos\problem_solving\Euler34\Euler34\obj\Debug\net6.0\EulerProblem.pdb
+C:\Users\INSRRAM5\source\repos\problem_solving\Euler34\Euler34\obj\Debug\net6.0\EulerProblem.genruntimeconfig.cache
+C:\Users\INSRRAM5\source\repos\problem_solving\Euler34\Euler34\obj\Debug\net6.0\ref\EulerProblem.dll

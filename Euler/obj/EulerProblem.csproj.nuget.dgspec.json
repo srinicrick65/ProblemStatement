@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\INSRRAM5\\source\\repos\\problem_solving\\Euler34\\Euler34\\EulerProblem.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\INSRRAM5\\source\\repos\\problem_solving\\Euler34\\Euler34\\EulerProblem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\INSRRAM5\\source\\repos\\problem_solving\\Euler34\\Euler34\\EulerProblem.csproj",
+        "projectName": "EulerProblem",
+        "projectPath": "C:\\Users\\INSRRAM5\\source\\repos\\problem_solving\\Euler34\\Euler34\\EulerProblem.csproj",
+        "packagesPath": "C:\\Users\\INSRRAM5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INSRRAM5\\source\\repos\\problem_solving\\Euler34\\Euler34\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\INSRRAM5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://abilityplatform.pkgs.visualstudio.com/_packaging/AbilityPackages/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Abilityplatform/_packaging/AbilityPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
